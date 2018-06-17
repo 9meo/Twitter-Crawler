@@ -8,3 +8,4 @@ pip install tweepy
 ```
 pip install wordcutpy
 ```
+- [Selenium](https://pypi.org/project/selenium/)
